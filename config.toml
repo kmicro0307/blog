@@ -1,5 +1,4 @@
 baseURL = 'https://kmicro0307.github.io/'
-publishDir = 'docs'
 languageCode = 'en-us'
 title = 'Hello hugo'
 theme = "ananke"
