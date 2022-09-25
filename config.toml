@@ -1,4 +1,5 @@
-baseURL = 'https://kmicro0307.github.io'
+baseURL = 'https://kmicro0307.github.io/kmserf'
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'Hello hugo'
 theme = "ananke"
