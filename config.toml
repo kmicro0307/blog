@@ -2,3 +2,4 @@ baseURL = 'https://kmicro0307.github.io/'
 languageCode = 'en-us'
 title = 'Hello hugo'
 theme = "ananke"
+publishDir = "docs"
