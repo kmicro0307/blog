@@ -1,5 +1,6 @@
-baseURL = 'https://kmicro0307.github.io/'
+baseURL = 'https://kmicro0307.github.io/blog'
 languageCode = 'en-us'
 title = 'Hello hugo'
 theme = "ananke"
 publishDir = "docs"
+logoHomeLink = "/blog"
